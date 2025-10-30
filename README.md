@@ -1,1 +1,3 @@
-# RNA-e-Deep-Learning---CESAR-School-2025.01
+# Nome: Guilherme Silva Câmara
+
+## Email: gsc3@cesar.school
